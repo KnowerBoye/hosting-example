@@ -9,7 +9,7 @@
 <body>
     <div id="starContainer"></div>
     <header>
-        <h1>Welcome to My First Website</h1>
+        <h1>Welcome to the second version of my first website!</h1>
     </header>
     <main>
         <section id="introduction">
